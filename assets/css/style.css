@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.ajuste-iframe {
+    
+    width: 400px;
+    height: 1000px;
+    border: 4px solid green;
+}
